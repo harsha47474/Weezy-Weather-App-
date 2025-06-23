@@ -3,7 +3,7 @@
 Weezy is a clean and responsive weather app that provides real-time weather updates for any city using the OpenWeatherMap API.
 
 ## 🚀 Features
-- Live weather data (temperature, humidity, wind speed)
+- Live weather data (temperature, humidity, Sea Level , Pressure)
 - Clean and friendly UI
 - Easy to use
 
