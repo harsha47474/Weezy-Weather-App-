@@ -4,7 +4,7 @@ Weezy is a clean and responsive weather app that provides real-time weather upda
 
 ## 🚀 Features
 - Live weather data (temperature, humidity, wind speed)
-- Clean and mobile-friendly UI
+- Clean and friendly UI
 - Easy to use
 
 ## 🛠 Tech Stack
