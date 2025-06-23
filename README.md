@@ -23,3 +23,4 @@ Weezy is a clean and responsive weather app that provides real-time weather upda
 https://harsha47474.github.io/Weezy-Weather-App-/
 
 ## 📬 Contact
+https://www.linkedin.com/in/harshavardan-n-b86754327/
