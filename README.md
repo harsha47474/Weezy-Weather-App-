@@ -12,7 +12,7 @@ Weezy is a clean and responsive weather app that provides real-time weather upda
 - OpenWeatherMap API
 
 ## 📸 Screenshots
-
+![App Screenshot](assets/Screenshot.png)
 
 ## 💡 How to Use
 1. Open the app
@@ -20,6 +20,6 @@ Weezy is a clean and responsive weather app that provides real-time weather upda
 3. Get live weather updates instantly
 
 ## 🔗 Live Demo
-
+https://harsha47474.github.io/Weezy-Weather-App-/
 
 ## 📬 Contact
