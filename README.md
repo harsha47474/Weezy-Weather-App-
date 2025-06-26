@@ -12,7 +12,7 @@ Weezy is a clean and responsive weather app that provides real-time weather upda
 - OpenWeatherMap API
 
 ## 📸 Screenshots
-![App Screenshot](assets/Screenshot.png)
+![App Screenshot](assests/Screenshot.png)
 
 ## 💡 How to Use
 1. Open the app
